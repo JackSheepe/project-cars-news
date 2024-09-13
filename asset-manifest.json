@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/project-cars-news/static/css/main.0e4f2719.css",
+    "main.js": "/project-cars-news/static/js/main.8a2698bb.js",
+    "static/js/453.18dbb74b.chunk.js": "/project-cars-news/static/js/453.18dbb74b.chunk.js",
+    "static/media/formula.png": "/project-cars-news/static/media/formula.6758b5b563b02bad569d.png",
+    "static/media/lucid-air.png": "/project-cars-news/static/media/lucid-air.c341a4627a6517ddfe3c.png",
+    "static/media/cadillac.png": "/project-cars-news/static/media/cadillac.ae11e5450723529184bb.png",
+    "static/media/volvo.png": "/project-cars-news/static/media/volvo.05a800ead2b29399262a.png",
+    "static/media/wolkswagen.png": "/project-cars-news/static/media/wolkswagen.6670d0d62071b67daf4e.png",
+    "static/media/porsche.png": "/project-cars-news/static/media/porsche.0f196ff1c1372d59f36b.png",
+    "static/media/tesla.png": "/project-cars-news/static/media/tesla.3d99ec5f52943467d8d4.png",
+    "static/media/battaries.png": "/project-cars-news/static/media/battaries.262f0eed8c5f073b13ba.png",
+    "static/media/Logo.svg": "/project-cars-news/static/media/Logo.d8be7c7fcb5a2a83fb18519e4fb6a7c6.svg",
+    "static/media/compare.svg": "/project-cars-news/static/media/compare.1488fd18f09697311f25eb30c56811d2.svg",
+    "static/media/search-btn.svg": "/project-cars-news/static/media/search-btn.7a90be772137f37e508e730b3fd936f3.svg",
+    "static/media/search.svg": "/project-cars-news/static/media/search.20e53f27645512add300.svg",
+    "static/media/gaz.svg": "/project-cars-news/static/media/gaz.e57ce9b7033608ba17c663e797242691.svg",
+    "static/media/side-menu.svg": "/project-cars-news/static/media/side-menu.da8df44613eca7b094dc49d81e8ead04.svg",
+    "index.html": "/project-cars-news/index.html",
+    "static/media/back.svg": "/project-cars-news/static/media/back.56292ec82d3693172295.svg",
+    "static/media/arrow-right_sm.svg": "/project-cars-news/static/media/arrow-right_sm.155d720c056aa82e6118.svg",
+    "static/media/arrow-right.svg": "/project-cars-news/static/media/arrow-right.23d9f3d445fd152ecbe1.svg",
+    "static/media/acc.svg": "/project-cars-news/static/media/acc.93e36ccac959316c9379e03ab6148b23.svg",
+    "main.0e4f2719.css.map": "/project-cars-news/static/css/main.0e4f2719.css.map",
+    "main.8a2698bb.js.map": "/project-cars-news/static/js/main.8a2698bb.js.map",
+    "453.18dbb74b.chunk.js.map": "/project-cars-news/static/js/453.18dbb74b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4f2719.css",
+    "static/js/main.8a2698bb.js"
+  ]
+}
